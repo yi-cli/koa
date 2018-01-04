@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/yi-cli/koa.git"
   },
-  "keywords": [],
+  "keywords": [
+    "koa",
+    "template"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
